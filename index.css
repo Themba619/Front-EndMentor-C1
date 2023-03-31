@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: hsl(212, 63%, 85%);
+}
+
+.container{
+    margin-top: 50px;
+    text-align: center;
+    border:0px solid black;
+    border-radius:20px;
+    background-color: white;
+    height: 500px;
+    width: 320px;
+    position:relative;
+    left:35%;
+}
+
+img{
+    border-radius: 20px;
+    padding: 10px;
+    height: 300px;
+    width: 290px;
+}
+
+.paragraph1{
+    position: relative;
+    left: 10%;
+    font-weight: bold;
+    width: 250px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.paragraph2{
+    position: relative;
+    left: 10%;
+    width: 250px;
+    font-size: 16px;
+    color:grey;
+}
+
+.attribution{
+    position:relative;
+    right:1%;
+    margin: 10px;
+    font-size: 15px;
+}
